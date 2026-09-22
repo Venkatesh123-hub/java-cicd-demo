@@ -6,3 +6,7 @@ target/
 
 # Compiled Java files
 *.class
+# Eclipse files
+.classpath
+.project
+.settings/
